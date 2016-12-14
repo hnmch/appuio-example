@@ -1,3 +1,2 @@
 # appuio-example
-
-composer create-project hnmch/appuio-example your-project-name
+after cloning composer create-project n2n/n2n-quickstart-skeleton your-project-name
