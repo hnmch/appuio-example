@@ -1,5 +1,5 @@
 {
-	"name": "hnmch/appuio-example",
+    "name": "hnmch/appuio-example",
     "description": "Example project for appuio installable trough composer",
     "minimum-stability": "dev",
     "prefer-stable": true,
